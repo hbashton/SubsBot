@@ -1,0 +1,7 @@
+[KEYS]
+bot_api = api_key
+[ADMIN]
+sudo = [198770907]
+username = @username
+[PATH]
+path = /path/to/source/with/slash
